@@ -1,0 +1,20 @@
+{
+    "Author": "Gisela Torres",
+    "ContentSize": 1694,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/shutdownstart-vms-by-tag/master/shutdownstartbytag.ps1",
+    "DownloadCount": 23883,
+    "Id": "ShutdownStart-VMs-by-tag-3f1e9afd",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 4,
+    "RaterCount": 4,
+    "Rating": 4.5,
+    "ReleaseDate": "2016-7-19T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script shutdowns/starts VMs by a given tag and its value. If you don't have it, you have to create a Credential Asset with the name\u00a0DefaultAzureCredential\u00a0in order to access your account.\u00a0You can know more about this script here:\u00a0https://www.returngis.net/2016/07/por-que-eti",
+    "Title": "Shutdown/Start VMs by tag",
+    "UpdatedDate": "2016-7-19T00:00:00",
+    "Url": "https://github.com/azureautomation/shutdownstart-vms-by-tag",
+    "UserTags": "Utility, Windows Azure Virtual Machines, PowerShell Workflow"
+}
